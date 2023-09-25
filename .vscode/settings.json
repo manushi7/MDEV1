@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ICE2DB",
+            "database": "${workspaceFolder:MDEV1}/ICE2DB"
+        }
+    ]
+}
